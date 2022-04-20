@@ -10,4 +10,4 @@ function queryAPI(endPoint) {
   }
 }
 
-export { weakMap, queryAPI };/* eslint-disable */
+export { weakMap, queryAPI }; /* eslint-disable */
